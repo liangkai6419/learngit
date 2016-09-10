@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# virtualenv
+venv
+.venv
+env
+.env
+
+# idea
+.idea
+
+#twistd file
+twistd.*
